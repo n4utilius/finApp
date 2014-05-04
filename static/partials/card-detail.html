@@ -1,0 +1,66 @@
+<div class="content">
+  <div class="card-images">
+    <img ng-src="{{cards[id].imageUrl}}">
+  </div>
+
+  <h1>{{ cards[id].nombre }}</h1>
+
+  <h4> {{ cards[id].institucion }}  </h4>
+  <span class="d"> <b> Tasa de Interés Promedio: </b> {{ cards[id].tasa_promedio }} </span>
+  <span class="d"> <b> CAT sin IVA: </b> {{ cards[id].cat_sin_iva }}  </span>
+
+  <ul class="specs">
+    <li>
+      <span> Requisitos </span>
+      <dl>
+        <dt>Ingresos Mínimos Comprobables: </dt>
+        <dd>{{ cards[id].ingresos_minimos }}</dd>
+      </dl>
+    </li>
+    <li>
+      <span> Comisiones </span>
+      <dl>
+        <dt> Anualidad: </dt>
+        <dd> {{ cards[id].anualidad }} </dd>
+
+        <dt> Anualidad de Tarjeta Adicional: </dt>
+        <dd> {{ cards[id].anualidad_tarjeta_ad }} </dd>
+
+        <dt> Gastos de Cobranza: </dt>
+        <dd> {{ cards[id].gastos_cobranza }} </dd>
+
+        <dt> Falta pago: </dt>
+        <dd> {{ cards[id].falta_pago }} </dd>
+
+        <dt> Reposición: </dt>
+        <dd> {{ cards[id].reposicion }} </dd>
+      </dl>
+    </li>
+    <li>
+      <span> Seguros </span>
+      <dl>
+        <dt> Seguro por pérdida equipaje: </dt>
+        <dd>{{ cards[id].seguro_equipaje }}</dd>
+
+        <dt> Seguro de viajero: </dt>
+        <dd>{{ cards[id].seguro_accidentes }}</dd>
+
+        <dt> Seguro en la renta de automóviles: </dt>
+        <dd>{{ cards[id].seguro_renta_auto }}</dd>
+      </dl>
+    </li> 
+    <li>
+      <span>Beneficios</span>
+      <dl>
+        <dt> Reducción de Tasa de Interés: </dt>
+        <dd> {{ cards[id].reduccion_tasa }} </dd>
+
+        <dt> Programa de Puntos: </dt>
+        <dd> {{ cards[id].programa_puntos }} </dd>
+
+        <dt> Programas de asistencia: </dt>
+        <dd> {{ cards[id].programa_asistencia }} </dd>
+      </dl>
+    </li>
+  </ul>
+</div>

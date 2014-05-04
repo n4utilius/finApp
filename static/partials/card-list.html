@@ -1,0 +1,56 @@
+<div class="container-fluid">
+  <div class="row">
+
+    <h2>Compara y elije la tarjeta de crédito que se adapte a tus necesidades</h2> 
+    <br>
+    <div class="col-md-2" id="sidebar">
+      <!--Sidebar content-->
+      <ul>
+        <li> Institución: <input ng-model="q_institucion"> </li>
+        <li> Ingresos Mínimos Comprobados: <input ng-model="q_requisitos"> </li>
+        <hr>
+        
+        <h4> Comisiones </h4>
+        <li> Anualidad: <input ng-model="q_anualidad"> </li>
+        <li> Anualidad Tarjeta Adicional: <input ng-model="q_anualidad_extra"> </li>
+        <li> Gastos de Cobranza: <input ng-model="q_gastos_cobranza"> </li>
+        <li> Falta de Pago: <input ng-model="q_falta_pago"> </li>
+        <li> Reposición: <input ng-model="q_reposicion"> </li>
+        <hr>
+
+        <li> Tasa de Interes Promedio: <input ng-model="q_tasa_interes"> </li>
+        <li> CAT sin IVA: <input ng-model="q_cat_sin_iva"> </li>
+        <li> Seguro de Equipaje: <input ng-model="q_seguro_viaje"> </li>
+        <li> Seguro de Viajero: <input ng-model="q_seguro_viajero"> </li>
+      </ul>
+
+    </div>
+    <div class="col-md-10">
+      <!--Body content-->
+
+      <ul class="cards">
+        <li ng-repeat="card in cards | 
+          filter:q_institucion | filter:q_requisitos | filter:q_anualidad 
+          | filter:q_anualidad_extra | filter:q_gastos_cobranza
+          | filter:q_falta_pago | filter:q_reposicion | filter:q_tasa_interes
+          | filter:q_cat_sin_iva | filter:seguro_viaje | filter:seguro_viajero
+          | orderBy:orderProp" class="thumbnail card card-listing">
+
+          <a href="#/{{card.id}}" class="thumb"> 
+            <img ng-src="{{card.imageUrl}}"> 
+          </a>
+
+          <a href="#/{{card.id}}">
+            <h4> {{card.nombre}} </h4>
+          </a>
+
+          <p > Institución: {{card.institucion}} </p>
+          <p style="float:left; margin-right:25px"> Ingresos Mínimos Comprobables: {{card.ingresos_minimos}} </p>
+          <p style="float:left; margin-right:25px"> Anualidad: {{card.anualidad}} </p>
+          <a href="#/{{card.id}}" > ver más... </a>
+        </li>
+      </ul>
+
+    </div>
+  </div>
+</div>

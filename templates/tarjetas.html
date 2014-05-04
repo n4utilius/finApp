@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en" ng-app="cardApp">
+<head>
+  <meta charset="utf-8">
+  <title>Google Phone Gallery</title>
+  <link rel="stylesheet" href="./static/bower_components/bootstrap/dist/css/bootstrap.css">
+  <link rel="stylesheet" href="./static/css/app.css">
+	  <link rel="stylesheet" href="./static/css/animations.css">
+	  <link href="./static/css/fonts.css" media="screen" rel="stylesheet" type="text/css">
+
+	  <script src="./static/bower_components/jquery/dist/jquery.js"></script>
+	  <script src="./static/bower_components/angular/angular.js"></script>
+	  <script src="./static/bower_components/angular-animate/angular-animate.js"></script>
+	  <script src="./static/bower_components/angular-route/angular-route.js"></script>
+	  <script src="./static/bower_components/angular-resource/angular-resource.js"></script>
+
+	  <script src="./static/js/app.js"></script>
+	  <script src="./static/js/animations.js"></script>
+	  <script src="./static/js/controllers.js"></script>
+	  <script src="./static/js/filters.js"></script>
+	  <script src="./static/js/services.js"></script>
+	<!-- Angular App Resources-->
+	<style type="text/css">
+		html, body{
+			padding: 0px;
+			margin:0px;
+			background: url(./static/img/optio-gplaypattern.original.png)
+		}
+
+		header{
+			height:116px;
+			width: 100%;
+			padding:0 auto;
+			background:url(./static/img/optio-gplaypattern.original.png) rgb(43, 49, 57);
+		}
+
+		header div{
+			padding: 5px;
+			width:900px;
+			margin: 0px auto;
+		}
+
+		header div img{
+			border-radius: 35px;
+		}
+
+		.view-container{
+			width: 100%;
+			padding:20px;
+		}
+		.view-frame{
+			margin: 20px auto;
+			width:960px;
+		}
+
+
+	</style>
+</head>
+<body>
+  <header> 
+  	<div>
+	  	<img src="./static/img/ufrbpo-finapp_02o03102j02u000000.png" alt="">
+		<span style="font-family:arvo;"><span style="color:#ffffff;">
+			<span style="font-size:18px;"><strong>
+				El comparador financiero para tus necesidades.
+			</strong></span>
+		</span></span>
+  	</div>
+  </header>
+
+  <div class="view-container">
+    <div ng-view class="view-frame"></div>
+  </div>
+
+</body>
+</html>
