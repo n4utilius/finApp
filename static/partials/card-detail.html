@@ -1,6 +1,7 @@
 <div class="content">
+  <button style="float:right"> <a href="#"> < Atras </a> </button>
   <div class="card-images">
-    <img ng-src="{{cards[id].imageUrl}}">
+    <img ng-src="static/img/cards/{{cards[id].id}}.jpg"> 
   </div>
 
   <h1>{{ cards[id].nombre }}</h1>
@@ -63,4 +64,6 @@
       </dl>
     </li>
   </ul>
+
+  <a href="{{ cards[id].more_url }}" id="mas_info">Más información...</a>
 </div>

@@ -1,6 +1,7 @@
 [
 		{
 			"id" : 1,
+			"nombre" : "Azul Bancomer",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -14,13 +15,14 @@
 			"gastos_cobranza" : "$335",
 			"anualidad_tarjeta_ad" : "NA",
 			"anualidad" : "$560",
-			"nombre" : "Azul Bancomer",
 			"institucion" : "BBVA Bancomer, S.A., Institución de Banca Múltiple, Grupo Financiero BBVA Bancomer",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":"http://www.bancomer.com/personas/tarjetas-credito-azul-bbva-bancomer.jsp"
+
 		},
 		{
 			"id" : 2,
+			"nombre" : "Bancomer Educación",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -34,13 +36,13 @@
 			"gastos_cobranza" : "$335",
 			"anualidad_tarjeta_ad" : "$0",
 			"anualidad" : "$560",
-			"nombre" : "Bancomer Educación",
 			"institucion" : "BBVA Bancomer, S.A., Institución de Banca Múltiple, Grupo Financiero BBVA Bancomer",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":"https://www.bancomer.com/personas/tarjetas-credito-bbva-bancomer-educacion.jsp"
 		},
 		{
 			"id" : 3,
+			"nombre" : "Bancomer Platinum",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -54,13 +56,13 @@
 			"gastos_cobranza" : "$335",
 			"anualidad_tarjeta_ad" : "$0",
 			"anualidad" : "$1,950",
-			"nombre" : "Bancomer Platinum",
 			"institucion" : "BBVA Bancomer, S.A., Institución de Banca Múltiple, Grupo Financiero BBVA Bancomer",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":"http://www.bancomer.com/personal/tarjeta-platinum.jsp"
 		},
 		{
 			"id" : 4,
+			"nombre" : "Congelada Bancomer",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -74,13 +76,13 @@
 			"gastos_cobranza" : "$210",
 			"anualidad_tarjeta_ad" : "NA",
 			"anualidad" : "$260",
-			"nombre" : "Congelada Bancomer",
 			"institucion" : "BBVA Bancomer, S.A., Institución de Banca Múltiple, Grupo Financiero BBVA Bancomer",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":"http://www.bancomer.com/personas/tarjetas-credito-congelada-bbva-bancomer.jsp"
 		},
 		{
 			"id" : 5,
+			"nombre" : "Garantizada Bancomer",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -94,13 +96,13 @@
 			"gastos_cobranza" : "$335",
 			"anualidad_tarjeta_ad" : "$0",
 			"anualidad" : "$560",
-			"nombre" : "Garantizada Bancomer",
 			"institucion" : "BBVA Bancomer, S.A., Institución de Banca Múltiple, Grupo Financiero BBVA Bancomer",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":"http://www.bancomer.com/personas/tarjetas-credito-garantizada-bbva-bancomer.jsp"
 		},
 		{
 			"id" : 6,
+			"nombre" : "HEB Visa",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -114,13 +116,13 @@
 			"gastos_cobranza" : "$277",
 			"anualidad_tarjeta_ad" : "$192",
 			"anualidad" : "$384",
-			"nombre" : "HEB Visa",
 			"institucion" : "BBVA Bancomer, S.A., Institución de Banca Múltiple, Grupo Financiero BBVA Bancomer",
 			"programa_asistencia" : "Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":"https://www.bancomer.com/personas/tarjetas-credito-heb.jsp"
 		},
 		{
 			"id" : 7,
+			"nombre" : "HEB Tradicional",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -134,13 +136,13 @@
 			"gastos_cobranza" : "$277",
 			"anualidad_tarjeta_ad" : "$145",
 			"anualidad" : "$282",
-			"nombre" : "HEB Tradicional",
 			"institucion" : "BBVA Bancomer, S.A., Institución de Banca Múltiple, Grupo Financiero BBVA Bancomer",
 			"programa_asistencia" : "Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":"https://www.bancomer.com/personas/tarjetas-credito-heb.jsp"
 		},
 		{
 			"id" : 8,
+			"nombre" : "HEB Pagos Sugeridos Quincenales",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -154,13 +156,13 @@
 			"gastos_cobranza" : "$79",
 			"anualidad_tarjeta_ad" : "$77",
 			"anualidad" : "$150",
-			"nombre" : "HEB Pagos Sugeridos Quincenales",
 			"institucion" : "BBVA Bancomer, S.A., Institución de Banca Múltiple, Grupo Financiero BBVA Bancomer",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":"https://www.bancomer.com/personas/tarjetas-credito-heb.jsp"
 		},
 		{
 			"id" : 9,
+			"nombre" : "Wal-Mart Pagos Sugeridos Quincenales",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -174,13 +176,13 @@
 			"gastos_cobranza" : "$73",
 			"anualidad_tarjeta_ad" : "$93",
 			"anualidad" : "$150",
-			"nombre" : "Wal-Mart Pagos Sugeridos Quincenales",
 			"institucion" : "BBVA Bancomer, S.A., Institución de Banca Múltiple, Grupo Financiero BBVA Bancomer",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":"http://www.bancomer.com/personas/tarjetas-credito-waltmart.jsp"
 		},
 		{
 			"id" : 10,
+			"nombre" : "Mi Primera Tarjeta Bancomer",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -194,13 +196,13 @@
 			"gastos_cobranza" : "$0",
 			"anualidad_tarjeta_ad" : "NA",
 			"anualidad" : "$0",
-			"nombre" : "Mi Primera Tarjeta Bancomer",
 			"institucion" : "BBVA Bancomer, S.A., Institución de Banca Múltiple, Grupo Financiero BBVA Bancomer",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":"https://www.bancomer.com/personas/tarjetas-credito-mi-primera-tarjeta-bbva-bancomer.jsp"
 		},
 		{
 			"id" : 11,
+			"nombre" : "Oro Bancomer",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -214,13 +216,13 @@
 			"gastos_cobranza" : "$335",
 			"anualidad_tarjeta_ad" : "$0",
 			"anualidad" : "$870",
-			"nombre" : "Oro Bancomer",
 			"institucion" : "BBVA Bancomer, S.A., Institución de Banca Múltiple, Grupo Financiero BBVA Bancomer",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":"http://www.bancomer.com/personas/tarjetas-credito-oro-bbva-bancomer.jsp"
 		},
 		{
 			"id" : 12,
+			"nombre" : "Rayados Bancomer",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -234,13 +236,13 @@
 			"gastos_cobranza" : "$335",
 			"anualidad_tarjeta_ad" : "$0",
 			"anualidad" : "$560",
-			"nombre" : "Rayados Bancomer",
 			"institucion" : "BBVA Bancomer, S.A., Institución de Banca Múltiple, Grupo Financiero BBVA Bancomer",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":"http://www.bancomer.com/personas/tarjetas-credito-rayados-bbva-bancomer.jsp"
 		},
 		{
 			"id" : 13,
+			"nombre" : "Club de Privilegios Honda",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -254,13 +256,13 @@
 			"gastos_cobranza" : "$277",
 			"anualidad_tarjeta_ad" : "$207",
 			"anualidad" : "$415",
-			"nombre" : "Club de Privilegios Honda",
 			"institucion" : "BBVA Bancomer, S.A., Institución de Banca Múltiple, Grupo Financiero BBVA Bancomer",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":"http://www.bancomer.com/personas/tarjetas-credito-club-privilegios-honda.jsp"
 		},
 		{
 			"id" : 14,
+			"nombre" : "IPN Bancomer",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -274,13 +276,13 @@
 			"gastos_cobranza" : "$335",
 			"anualidad_tarjeta_ad" : "NA",
 			"anualidad" : "$560",
-			"nombre" : "IPN Bancomer",
 			"institucion" : "BBVA Bancomer, S.A., Institución de Banca Múltiple, Grupo Financiero BBVA Bancomer",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":"https://www.bancomer.com/personas/tarjetas-credito-ipn-bbva-bancomer.jsp"
 		},
 		{
 			"id" : 15,
+			"nombre" : "SAM´S Club Style",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -294,13 +296,13 @@
 			"gastos_cobranza" : "$230",
 			"anualidad_tarjeta_ad" : "$0",
 			"anualidad" : "$394",
-			"nombre" : "SAM´S Club Style",
 			"institucion" : "BBVA Bancomer, S.A., Institución de Banca Múltiple, Grupo Financiero BBVA Bancomer",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":"https://www.bancomer.com/personas/tarjetas-credito-sams-club-style-mastercard.jsp"
 		},
 		{
 			"id" : 16,
+			"nombre" : "Suburbia",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -314,13 +316,13 @@
 			"gastos_cobranza" : "$126",
 			"anualidad_tarjeta_ad" : "$0",
 			"anualidad" : "$282",
-			"nombre" : "Suburbia",
 			"institucion" : "BBVA Bancomer, S.A., Institución de Banca Múltiple, Grupo Financiero BBVA Bancomer",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":"https://www.bancomer.com/personas/tarjetas-credito-suburbia.jsp"
 		},
 		{
 			"id" : 17,
+			"nombre" : "Wal-Mart Visa",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -334,13 +336,13 @@
 			"gastos_cobranza" : "$277",
 			"anualidad_tarjeta_ad" : "$136",
 			"anualidad" : "$311",
-			"nombre" : "Wal-Mart Visa",
 			"institucion" : "BBVA Bancomer, S.A., Institución de Banca Múltiple, Grupo Financiero BBVA Bancomer",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":"http://www.bancomer.com/personas/tarjetas-credito-waltmart.jsp"
 		},
 		{
 			"id" : 18,
+			"nombre" : "Infinite Bancomer",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -354,13 +356,13 @@
 			"gastos_cobranza" : "$0",
 			"anualidad_tarjeta_ad" : "$0",
 			"anualidad" : "$4,720",
-			"nombre" : "Infinite Bancomer",
 			"institucion" : "BBVA Bancomer, S.A., Institución de Banca Múltiple, Grupo Financiero BBVA Bancomer",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":"https://www.bancomer.com/patrimonial/tarjeta-visa-infinite.jsp"
 		},
 		{
 			"id" : 19,
+			"nombre" : "Clásica MasterCard HSBC",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -374,13 +376,13 @@
 			"gastos_cobranza" : "$340",
 			"anualidad_tarjeta_ad" : "$220",
 			"anualidad" : "$560",
-			"nombre" : "Clásica MasterCard HSBC",
 			"institucion" : "HSBC México, S.A., Institución de Banca Múltiple, Grupo Financiero HSBC",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":"https://www.hsbc.com.mx/1/2/es/personas/tarjetas-de-credito/clasica-hsbc"
 		},
 		{
 			"id" : 20,
+			"nombre" : "Clásica Visa HSBC",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -394,13 +396,13 @@
 			"gastos_cobranza" : "$340",
 			"anualidad_tarjeta_ad" : "$220",
 			"anualidad" : "$560",
-			"nombre" : "Clásica Visa HSBC",
 			"institucion" : "HSBC México, S.A., Institución de Banca Múltiple, Grupo Financiero HSBC",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":"https://www.hsbc.com.mx/1/2/es/personas/tarjetas-de-credito/clasica-hsbc"
 		},
 		{
 			"id" : 21,
+			"nombre" : "Oro MasterCard HSBC",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -414,13 +416,13 @@
 			"gastos_cobranza" : "$340",
 			"anualidad_tarjeta_ad" : "$325",
 			"anualidad" : "$850",
-			"nombre" : "Oro MasterCard HSBC",
 			"institucion" : "HSBC México, S.A., Institución de Banca Múltiple, Grupo Financiero HSBC",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 22,
+			"nombre" : "Oro Visa HSBC",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -434,13 +436,13 @@
 			"gastos_cobranza" : "$340",
 			"anualidad_tarjeta_ad" : "$325",
 			"anualidad" : "$850",
-			"nombre" : "Oro Visa HSBC",
 			"institucion" : "HSBC México, S.A., Institución de Banca Múltiple, Grupo Financiero HSBC",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 23,
+			"nombre" : "Platinum HSBC",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -454,13 +456,13 @@
 			"gastos_cobranza" : "$340",
 			"anualidad_tarjeta_ad" : "$750",
 			"anualidad" : "$1,900",
-			"nombre" : "Platinum HSBC",
 			"institucion" : "HSBC México, S.A., Institución de Banca Múltiple, Grupo Financiero HSBC",
 			"programa_asistencia" : "Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 24,
+			"nombre" : "Básica HSBC",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -474,13 +476,13 @@
 			"gastos_cobranza" : "NA",
 			"anualidad_tarjeta_ad" : "NA",
 			"anualidad" : "NA",
-			"nombre" : "Básica HSBC",
 			"institucion" : "HSBC México, S.A., Institución de Banca Múltiple, Grupo Financiero HSBC",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 25,
+			"nombre" : "HSBC Advance Platinum",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -494,13 +496,13 @@
 			"gastos_cobranza" : "$340",
 			"anualidad_tarjeta_ad" : "$0",
 			"anualidad" : "$0",
-			"nombre" : "HSBC Advance Platinum",
 			"institucion" : "HSBC México, S.A., Institución de Banca Múltiple, Grupo Financiero HSBC",
 			"programa_asistencia" : "Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 26,
+			"nombre" : "HSBC Premier World Elite MasterCard",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -514,13 +516,13 @@
 			"gastos_cobranza" : "$340",
 			"anualidad_tarjeta_ad" : "$0",
 			"anualidad" : "$0",
-			"nombre" : "HSBC Premier World Elite MasterCard",
 			"institucion" : "HSBC México, S.A., Institución de Banca Múltiple, Grupo Financiero HSBC",
 			"programa_asistencia" : "Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 27,
+			"nombre" : "HSBC Opción",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -534,13 +536,13 @@
 			"gastos_cobranza" : "$340",
 			"anualidad_tarjeta_ad" : "$160",
 			"anualidad" : "$240",
-			"nombre" : "HSBC Opción",
 			"institucion" : "HSBC México, S.A., Institución de Banca Múltiple, Grupo Financiero HSBC",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 28,
+			"nombre" : "Visa Clásica",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -554,13 +556,13 @@
 			"gastos_cobranza" : "NA",
 			"anualidad_tarjeta_ad" : "$175",
 			"anualidad" : "$350",
-			"nombre" : "Visa Clásica",
 			"institucion" : "Banco del Bajío, S.A., Institución de Banca Múltiple",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 29,
+			"nombre" : "Visa Clásica Garantizada",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -574,13 +576,13 @@
 			"gastos_cobranza" : "NA",
 			"anualidad_tarjeta_ad" : "$175",
 			"anualidad" : "$350",
-			"nombre" : "Visa Clásica Garantizada",
 			"institucion" : "Banco del Bajío, S.A., Institución de Banca Múltiple",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 30,
+			"nombre" : "Empresarial",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -594,13 +596,13 @@
 			"gastos_cobranza" : "NA",
 			"anualidad_tarjeta_ad" : "$250",
 			"anualidad" : "$500",
-			"nombre" : "Empresarial",
 			"institucion" : "Banco del Bajío, S.A., Institución de Banca Múltiple",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 31,
+			"nombre" : "Visa Básica",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -614,13 +616,13 @@
 			"gastos_cobranza" : "$0",
 			"anualidad_tarjeta_ad" : "NA",
 			"anualidad" : "NA",
-			"nombre" : "Visa Básica",
 			"institucion" : "Banco del Bajío, S.A., Institución de Banca Múltiple",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 32,
+			"nombre" : "Visa Oro",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -634,13 +636,13 @@
 			"gastos_cobranza" : "NA",
 			"anualidad_tarjeta_ad" : "$300",
 			"anualidad" : "$600",
-			"nombre" : "Visa Oro",
 			"institucion" : "Banco del Bajío, S.A., Institución de Banca Múltiple",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 33,
+			"nombre" : "Mifel Oro",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -654,13 +656,13 @@
 			"gastos_cobranza" : "NA",
 			"anualidad_tarjeta_ad" : "NA",
 			"anualidad" : "$500",
-			"nombre" : "Mifel Oro",
 			"institucion" : "Banca Mifel, S.A., Institución de Banca Múltiple, Grupo Financiero Mifel",
 			"programa_asistencia" : "Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 34,
+			"nombre" : "Scotia Travel Clásica",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -674,13 +676,13 @@
 			"gastos_cobranza" : "$300",
 			"anualidad_tarjeta_ad" : "$275",
 			"anualidad" : "$550",
-			"nombre" : "Scotia Travel Clásica",
 			"institucion" : "Scotiabank, S.A., Institución de Banca Múltiple, Grupo Financiero Scotiabank Inverlat",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 35,
+			"nombre" : "Scotia Travel Oro",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -694,13 +696,13 @@
 			"gastos_cobranza" : "$300",
 			"anualidad_tarjeta_ad" : "$375",
 			"anualidad" : "$750",
-			"nombre" : "Scotia Travel Oro",
 			"institucion" : "Scotiabank, S.A., Institución de Banca Múltiple, Grupo Financiero Scotiabank Inverlat",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 36,
+			"nombre" : "Scotiabank Tasa Baja Clásica",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -714,13 +716,13 @@
 			"gastos_cobranza" : "$300",
 			"anualidad_tarjeta_ad" : "$225",
 			"anualidad" : "$450",
-			"nombre" : "Scotiabank Tasa Baja Clásica",
 			"institucion" : "Scotiabank, S.A., Institución de Banca Múltiple, Grupo Financiero Scotiabank Inverlat",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 37,
+			"nombre" : "Scotiabank Tasa Baja Oro",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -734,13 +736,13 @@
 			"gastos_cobranza" : "$300",
 			"anualidad_tarjeta_ad" : "$315",
 			"anualidad" : "$630",
-			"nombre" : "Scotiabank Tasa Baja Oro",
 			"institucion" : "Scotiabank, S.A., Institución de Banca Múltiple, Grupo Financiero Scotiabank Inverlat",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 38,
+			"nombre" : "Scotia Básica",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -754,13 +756,13 @@
 			"gastos_cobranza" : "NA",
 			"anualidad_tarjeta_ad" : "NA",
 			"anualidad" : "NA",
-			"nombre" : "Scotia Básica",
 			"institucion" : "Scotiabank, S.A., Institución de Banca Múltiple, Grupo Financiero Scotiabank Inverlat",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 39,
+			"nombre" : "Scotiabank Tradicional Clásica",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -774,13 +776,13 @@
 			"gastos_cobranza" : "$300",
 			"anualidad_tarjeta_ad" : "$225",
 			"anualidad" : "$450",
-			"nombre" : "Scotiabank Tradicional Clásica",
 			"institucion" : "Scotiabank, S.A., Institución de Banca Múltiple, Grupo Financiero Scotiabank Inverlat",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 40,
+			"nombre" : "Scotiabank Tradicional Oro",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -794,13 +796,13 @@
 			"gastos_cobranza" : "$300",
 			"anualidad_tarjeta_ad" : "$315",
 			"anualidad" : "$630",
-			"nombre" : "Scotiabank Tradicional Oro",
 			"institucion" : "Scotiabank, S.A., Institución de Banca Múltiple, Grupo Financiero Scotiabank Inverlat",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 41,
+			"nombre" : "Scotia Travel Premium",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -814,13 +816,13 @@
 			"gastos_cobranza" : "$300",
 			"anualidad_tarjeta_ad" : "NA",
 			"anualidad" : "$2,250",
-			"nombre" : "Scotia Travel Premium",
 			"institucion" : "Scotiabank, S.A., Institución de Banca Múltiple, Grupo Financiero Scotiabank Inverlat",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 42,
+			"nombre" : "Scotia Travel Platinum",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -834,13 +836,13 @@
 			"gastos_cobranza" : "$300",
 			"anualidad_tarjeta_ad" : "$500",
 			"anualidad" : "$1,500",
-			"nombre" : "Scotia Travel Platinum",
 			"institucion" : "Scotiabank, S.A., Institución de Banca Múltiple, Grupo Financiero Scotiabank Inverlat",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 43,
+			"nombre" : "Clásica Banregio",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -854,13 +856,13 @@
 			"gastos_cobranza" : "$300",
 			"anualidad_tarjeta_ad" : "NA",
 			"anualidad" : "NA",
-			"nombre" : "Clásica Banregio",
 			"institucion" : "Banco Regional de Monterrey, S.A., Institución de Banca Múltiple, Banregio Grupo Financiero",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 44,
+			"nombre" : "Básica",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -874,13 +876,13 @@
 			"gastos_cobranza" : "NA",
 			"anualidad_tarjeta_ad" : "NA",
 			"anualidad" : "NA",
-			"nombre" : "Básica",
 			"institucion" : "Banco Regional de Monterrey, S.A., Institución de Banca Múltiple, Banregio Grupo Financiero",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 45,
+			"nombre" : "Empresario",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -894,13 +896,13 @@
 			"gastos_cobranza" : "$300",
 			"anualidad_tarjeta_ad" : "$250",
 			"anualidad" : "$500",
-			"nombre" : "Empresario",
 			"institucion" : "Banco Regional de Monterrey, S.A., Institución de Banca Múltiple, Banregio Grupo Financiero",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 46,
+			"nombre" : "IN Gold",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -914,13 +916,13 @@
 			"gastos_cobranza" : "$300",
 			"anualidad_tarjeta_ad" : "NA",
 			"anualidad" : "NA",
-			"nombre" : "IN Gold",
 			"institucion" : "Banco Regional de Monterrey, S.A., Institución de Banca Múltiple, Banregio Grupo Financiero",
 			"programa_asistencia" : "Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 47,
+			"nombre" : "IN Platinum",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -934,13 +936,13 @@
 			"gastos_cobranza" : "$300",
 			"anualidad_tarjeta_ad" : "NA",
 			"anualidad" : "NA",
-			"nombre" : "IN Platinum",
 			"institucion" : "Banco Regional de Monterrey, S.A., Institución de Banca Múltiple, Banregio Grupo Financiero",
 			"programa_asistencia" : "Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 48,
+			"nombre" : "Sí Card Plus",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -954,13 +956,13 @@
 			"gastos_cobranza" : "$495",
 			"anualidad_tarjeta_ad" : "$305",
 			"anualidad" : "$610",
-			"nombre" : "Sí Card Plus",
 			"institucion" : "Banco Invex, S.A., Institución de Banca Múltiple, Invex Grupo Financiero",
 			"programa_asistencia" : "Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 49,
+			"nombre" : "Sí Card Platinum",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -974,13 +976,13 @@
 			"gastos_cobranza" : "$495",
 			"anualidad_tarjeta_ad" : "$675",
 			"anualidad" : "$1,350",
-			"nombre" : "Sí Card Platinum",
 			"institucion" : "Banco Invex, S.A., Institución de Banca Múltiple, Invex Grupo Financiero",
 			"programa_asistencia" : "Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 50,
+			"nombre" : "Afirme Blanc",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -994,13 +996,13 @@
 			"gastos_cobranza" : "NA",
 			"anualidad_tarjeta_ad" : "$1,750",
 			"anualidad" : "$3,500",
-			"nombre" : "Afirme Blanc",
 			"institucion" : "Banca Afirme, S.A., Institución de Banca Múltiple, Afirme Grupo Financiero",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 51,
+			"nombre" : "Afirme Clásica",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -1014,13 +1016,13 @@
 			"gastos_cobranza" : "$0",
 			"anualidad_tarjeta_ad" : "$250",
 			"anualidad" : "$500",
-			"nombre" : "Afirme Clásica",
 			"institucion" : "Banca Afirme, S.A., Institución de Banca Múltiple, Afirme Grupo Financiero",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 52,
+			"nombre" : "Afirme Oro",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -1034,13 +1036,13 @@
 			"gastos_cobranza" : "$0",
 			"anualidad_tarjeta_ad" : "$325",
 			"anualidad" : "$650",
-			"nombre" : "Afirme Oro",
 			"institucion" : "Banca Afirme, S.A., Institución de Banca Múltiple, Afirme Grupo Financiero",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 53,
+			"nombre" : "Banorte Básica",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -1054,13 +1056,13 @@
 			"gastos_cobranza" : "NA",
 			"anualidad_tarjeta_ad" : "NA",
 			"anualidad" : "NA",
-			"nombre" : "Banorte Básica",
 			"institucion" : "Banco Mercantil del Norte, S.A., Institución de Banca Múltiple, Grupo Financiero Banorte",
 			"programa_asistencia" : "Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 54,
+			"nombre" : "Banorte Fácil",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -1074,13 +1076,13 @@
 			"gastos_cobranza" : "$150",
 			"anualidad_tarjeta_ad" : "NA",
 			"anualidad" : "$120",
-			"nombre" : "Banorte Fácil",
 			"institucion" : "Banco Mercantil del Norte, S.A., Institución de Banca Múltiple, Grupo Financiero Banorte",
 			"programa_asistencia" : "Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 55,
+			"nombre" : "Banorte Tuzos",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -1094,13 +1096,13 @@
 			"gastos_cobranza" : "$350",
 			"anualidad_tarjeta_ad" : "$350",
 			"anualidad" : "$700",
-			"nombre" : "Banorte Tuzos",
 			"institucion" : "Banco Mercantil del Norte, S.A., Institución de Banca Múltiple, Grupo Financiero Banorte",
 			"programa_asistencia" : "Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 56,
+			"nombre" : "Banorte Clásica",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -1114,13 +1116,13 @@
 			"gastos_cobranza" : "$350",
 			"anualidad_tarjeta_ad" : "$220",
 			"anualidad" : "$500",
-			"nombre" : "Banorte Clásica",
 			"institucion" : "Banco Mercantil del Norte, S.A., Institución de Banca Múltiple, Grupo Financiero Banorte",
 			"programa_asistencia" : "Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 57,
+			"nombre" : "Empuje Negocios",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -1134,13 +1136,13 @@
 			"gastos_cobranza" : "$279",
 			"anualidad_tarjeta_ad" : "$750",
 			"anualidad" : "$750",
-			"nombre" : "Empuje Negocios",
 			"institucion" : "Banco Mercantil del Norte, S.A., Institución de Banca Múltiple, Grupo Financiero Banorte",
 			"programa_asistencia" : "Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 58,
+			"nombre" : "Oro Banorte",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -1154,13 +1156,13 @@
 			"gastos_cobranza" : "$340",
 			"anualidad_tarjeta_ad" : "$0",
 			"anualidad" : "$0",
-			"nombre" : "Oro Banorte",
 			"institucion" : "Banco Mercantil del Norte, S.A., Institución de Banca Múltiple, Grupo Financiero Banorte",
 			"programa_asistencia" : "Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 59,
+			"nombre" : "Platinum",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -1174,13 +1176,13 @@
 			"gastos_cobranza" : "$350",
 			"anualidad_tarjeta_ad" : "$800",
 			"anualidad" : "$1,700",
-			"nombre" : "Platinum",
 			"institucion" : "Banco Mercantil del Norte, S.A., Institución de Banca Múltiple, Grupo Financiero Banorte",
 			"programa_asistencia" : "Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 60,
+			"nombre" : "Básica American Express",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -1194,13 +1196,13 @@
 			"gastos_cobranza" : "NA",
 			"anualidad_tarjeta_ad" : "NA",
 			"anualidad" : "NA",
-			"nombre" : "Básica American Express",
 			"institucion" : "American Express Bank (México), S.A., Institución de Banca Múltiple",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 61,
+			"nombre" : "The Gold Elite Card American Express",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -1214,13 +1216,13 @@
 			"gastos_cobranza" : "$350",
 			"anualidad_tarjeta_ad" : "NA",
 			"anualidad" : "$1,200",
-			"nombre" : "The Gold Elite Card American Express",
 			"institucion" : "American Express Bank (México), S.A., Institución de Banca Múltiple",
 			"programa_asistencia" : "Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 62,
+			"nombre" : "The Platinum Credit Card American Express",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -1234,13 +1236,13 @@
 			"gastos_cobranza" : "$350",
 			"anualidad_tarjeta_ad" : "NA",
 			"anualidad" : "$2,340",
-			"nombre" : "The Platinum Credit Card American Express",
 			"institucion" : "American Express Bank (México), S.A., Institución de Banca Múltiple",
 			"programa_asistencia" : "Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 63,
+			"nombre" : "Súper Tarjeta de Crédito de Banco Walmart",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -1254,13 +1256,13 @@
 			"gastos_cobranza" : "$300",
 			"anualidad_tarjeta_ad" : "$100",
 			"anualidad" : "$500",
-			"nombre" : "Súper Tarjeta de Crédito de Banco Walmart",
 			"institucion" : "Banco Wal-Mart de México Adelante, S.A., Institución de Banca Múltiple",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 64,
+			"nombre" : "BanCoppel VISA",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -1274,13 +1276,13 @@
 			"gastos_cobranza" : "NA",
 			"anualidad_tarjeta_ad" : "NA",
 			"anualidad" : "NA",
-			"nombre" : "BanCoppel VISA",
 			"institucion" : "BanCoppel, S.A., Institución de Banca Múltiple",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 65,
+			"nombre" : "Chedraui Banco Fácil Visa",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -1294,13 +1296,13 @@
 			"gastos_cobranza" : "$300",
 			"anualidad_tarjeta_ad" : "$140",
 			"anualidad" : "$280",
-			"nombre" : "Chedraui Banco Fácil Visa",
 			"institucion" : "Banco Fácil, S.A., Institución de Banca Múltiple",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 66,
+			"nombre" : "Clásica Inbursa",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -1314,13 +1316,13 @@
 			"gastos_cobranza" : "$300",
 			"anualidad_tarjeta_ad" : "$0",
 			"anualidad" : "$0",
-			"nombre" : "Clásica Inbursa",
 			"institucion" : "Sociedad Financiera Inbursa, S.A. de C.V., SOFOM, E.R., Grupo Financiero Inbursa",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 67,
+			"nombre" : "Enlace Médico Inbursa",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -1334,13 +1336,13 @@
 			"gastos_cobranza" : "$300",
 			"anualidad_tarjeta_ad" : "$0",
 			"anualidad" : "$200",
-			"nombre" : "Enlace Médico Inbursa",
 			"institucion" : "Sociedad Financiera Inbursa, S.A. de C.V., SOFOM, E.R., Grupo Financiero Inbursa",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 68,
+			"nombre" : "Gas Natural Fenosa Inbursa",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -1354,13 +1356,13 @@
 			"gastos_cobranza" : "$300",
 			"anualidad_tarjeta_ad" : "$0",
 			"anualidad" : "$250",
-			"nombre" : "Gas Natural Fenosa Inbursa",
 			"institucion" : "Sociedad Financiera Inbursa, S.A. de C.V., SOFOM, E.R., Grupo Financiero Inbursa",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 69,
+			"nombre" : "Oro Inbursa",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -1374,13 +1376,13 @@
 			"gastos_cobranza" : "$300",
 			"anualidad_tarjeta_ad" : "$0",
 			"anualidad" : "$0",
-			"nombre" : "Oro Inbursa",
 			"institucion" : "Sociedad Financiera Inbursa, S.A. de C.V., SOFOM, E.R., Grupo Financiero Inbursa",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 70,
+			"nombre" : "Platinum Inbursa",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -1394,13 +1396,13 @@
 			"gastos_cobranza" : "$300",
 			"anualidad_tarjeta_ad" : "NA",
 			"anualidad" : "$750",
-			"nombre" : "Platinum Inbursa",
 			"institucion" : "Sociedad Financiera Inbursa, S.A. de C.V., SOFOM, E.R., Grupo Financiero Inbursa",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 71,
+			"nombre" : "Telcel Inbursa",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -1414,13 +1416,13 @@
 			"gastos_cobranza" : "$300",
 			"anualidad_tarjeta_ad" : "$0",
 			"anualidad" : "$0",
-			"nombre" : "Telcel Inbursa",
 			"institucion" : "Sociedad Financiera Inbursa, S.A. de C.V., SOFOM, E.R., Grupo Financiero Inbursa",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 72,
+			"nombre" : "APAC",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -1434,13 +1436,13 @@
 			"gastos_cobranza" : "$330",
 			"anualidad_tarjeta_ad" : "$300",
 			"anualidad" : "$600",
-			"nombre" : "APAC",
 			"institucion" : "Tarjetas Banamex, S.A de C.V., SOFOM, E.R.",
 			"programa_asistencia" : "Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 73,
+			"nombre" : "Affinity Card",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -1454,13 +1456,13 @@
 			"gastos_cobranza" : "$330",
 			"anualidad_tarjeta_ad" : "$300",
 			"anualidad" : "$600",
-			"nombre" : "Affinity Card",
 			"institucion" : "Tarjetas Banamex, S.A de C.V., SOFOM, E.R.",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 74,
+			"nombre" : "América Deporteísmo",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -1474,13 +1476,13 @@
 			"gastos_cobranza" : "$330",
 			"anualidad_tarjeta_ad" : "$300",
 			"anualidad" : "$600",
-			"nombre" : "América Deporteísmo",
 			"institucion" : "Tarjetas Banamex, S.A de C.V., SOFOM, E.R.",
 			"programa_asistencia" : "Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 75,
+			"nombre" : "B-Smart Banamex",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -1494,13 +1496,13 @@
 			"gastos_cobranza" : "$330",
 			"anualidad_tarjeta_ad" : "$300",
 			"anualidad" : "$600",
-			"nombre" : "B-Smart Banamex",
 			"institucion" : "Tarjetas Banamex, S.A de C.V., SOFOM, E.R.",
 			"programa_asistencia" : "Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 76,
+			"nombre" : "Best Buy",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -1514,13 +1516,13 @@
 			"gastos_cobranza" : "$330",
 			"anualidad_tarjeta_ad" : "$300",
 			"anualidad" : "$600",
-			"nombre" : "Best Buy",
 			"institucion" : "Tarjetas Banamex, S.A de C.V., SOFOM, E.R.",
 			"programa_asistencia" : "Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 77,
+			"nombre" : "Citi/Aadvantage",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -1534,13 +1536,13 @@
 			"gastos_cobranza" : "$330",
 			"anualidad_tarjeta_ad" : "$500",
 			"anualidad" : "$1,000",
-			"nombre" : "Citi/Aadvantage",
 			"institucion" : "Tarjetas Banamex, S.A de C.V., SOFOM, E.R.",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 78,
+			"nombre" : "Clásica Banamex",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -1554,13 +1556,13 @@
 			"gastos_cobranza" : "$330",
 			"anualidad_tarjeta_ad" : "$300",
 			"anualidad" : "$600",
-			"nombre" : "Clásica Banamex",
 			"institucion" : "Tarjetas Banamex, S.A de C.V., SOFOM, E.R.",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 79,
+			"nombre" : "Costco",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -1574,13 +1576,13 @@
 			"gastos_cobranza" : "$330",
 			"anualidad_tarjeta_ad" : "$150",
 			"anualidad" : "$300",
-			"nombre" : "Costco",
 			"institucion" : "Tarjetas Banamex, S.A de C.V., SOFOM, E.R.",
 			"programa_asistencia" : "Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 80,
+			"nombre" : "Deporteísmo clásica",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -1594,13 +1596,13 @@
 			"gastos_cobranza" : "$330",
 			"anualidad_tarjeta_ad" : "$300",
 			"anualidad" : "$600",
-			"nombre" : "Deporteísmo clásica",
 			"institucion" : "Tarjetas Banamex, S.A de C.V., SOFOM, E.R.",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 81,
+			"nombre" : "La Verde Deporteísmo",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -1614,13 +1616,13 @@
 			"gastos_cobranza" : "$330",
 			"anualidad_tarjeta_ad" : "$300",
 			"anualidad" : "$600",
-			"nombre" : "La Verde Deporteísmo",
 			"institucion" : "Tarjetas Banamex, S.A de C.V., SOFOM, E.R.",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 82,
+			"nombre" : "Office Depot",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -1634,13 +1636,13 @@
 			"gastos_cobranza" : "$330",
 			"anualidad_tarjeta_ad" : "$300",
 			"anualidad" : "$600",
-			"nombre" : "Office Depot",
 			"institucion" : "Tarjetas Banamex, S.A de C.V., SOFOM, E.R.",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 83,
+			"nombre" : "Oro Banamex",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -1654,13 +1656,13 @@
 			"gastos_cobranza" : "$330",
 			"anualidad_tarjeta_ad" : "$450",
 			"anualidad" : "$900",
-			"nombre" : "Oro Banamex",
 			"institucion" : "Tarjetas Banamex, S.A de C.V., SOFOM, E.R.",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 84,
+			"nombre" : "Banamex Platinum",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -1674,13 +1676,13 @@
 			"gastos_cobranza" : "$300",
 			"anualidad_tarjeta_ad" : "$1,000",
 			"anualidad" : "$2,000",
-			"nombre" : "Banamex Platinum",
 			"institucion" : "Tarjetas Banamex, S.A de C.V., SOFOM, E.R.",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 85,
+			"nombre" : "Pumas Deporteísmo",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -1694,13 +1696,13 @@
 			"gastos_cobranza" : "$330",
 			"anualidad_tarjeta_ad" : "$300",
 			"anualidad" : "$600",
-			"nombre" : "Pumas Deporteísmo",
 			"institucion" : "Tarjetas Banamex, S.A de C.V., SOFOM, E.R.",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 86,
+			"nombre" : "Aeroméxico Gold",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -1714,13 +1716,13 @@
 			"gastos_cobranza" : "$330",
 			"anualidad_tarjeta_ad" : "$1,500",
 			"anualidad" : "$3,000",
-			"nombre" : "Aeroméxico Gold",
 			"institucion" : "Tarjetas Banamex, S.A de C.V., SOFOM, E.R.",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 87,
+			"nombre" : "Aeroméxico Platinum",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -1734,13 +1736,13 @@
 			"gastos_cobranza" : "$300",
 			"anualidad_tarjeta_ad" : "$2,250",
 			"anualidad" : "$4,500",
-			"nombre" : "Aeroméxico Platinum",
 			"institucion" : "Tarjetas Banamex, S.A de C.V., SOFOM, E.R.",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 88,
+			"nombre" : "Base",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -1754,13 +1756,13 @@
 			"gastos_cobranza" : "NA",
 			"anualidad_tarjeta_ad" : "NA",
 			"anualidad" : "NA",
-			"nombre" : "Base",
 			"institucion" : "Tarjetas Banamex, S.A de C.V., SOFOM, E.R.",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 89,
+			"nombre" : "Membresía Teletón",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -1774,13 +1776,13 @@
 			"gastos_cobranza" : "$330",
 			"anualidad_tarjeta_ad" : "$0",
 			"anualidad" : "$300",
-			"nombre" : "Membresía Teletón",
 			"institucion" : "Tarjetas Banamex, S.A de C.V., SOFOM, E.R.",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 90,
+			"nombre" : "The Home Depot",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -1794,13 +1796,13 @@
 			"gastos_cobranza" : "$330",
 			"anualidad_tarjeta_ad" : "$300",
 			"anualidad" : "$600",
-			"nombre" : "The Home Depot",
 			"institucion" : "Tarjetas Banamex, S.A de C.V., SOFOM, E.R.",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 91,
+			"nombre" : "Tigres Deporteísmo",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -1814,13 +1816,13 @@
 			"gastos_cobranza" : "$330",
 			"anualidad_tarjeta_ad" : "$300",
 			"anualidad" : "$600",
-			"nombre" : "Tigres Deporteísmo",
 			"institucion" : "Tarjetas Banamex, S.A de C.V., SOFOM, E.R.",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 92,
+			"nombre" : "Travel Pass",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -1834,13 +1836,13 @@
 			"gastos_cobranza" : "$330",
 			"anualidad_tarjeta_ad" : "$450",
 			"anualidad" : "$900",
-			"nombre" : "Travel Pass",
 			"institucion" : "Tarjetas Banamex, S.A de C.V., SOFOM, E.R.",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 93,
+			"nombre" : "Santander Clásica",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -1854,13 +1856,13 @@
 			"gastos_cobranza" : "$0",
 			"anualidad_tarjeta_ad" : "$0",
 			"anualidad" : "$540",
-			"nombre" : "Santander Clásica",
 			"institucion" : "Santander Consumo, S.A. de C.V., SOFOM, E.R.",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 94,
+			"nombre" : "Flexcard",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -1874,13 +1876,13 @@
 			"gastos_cobranza" : "$330",
 			"anualidad_tarjeta_ad" : "$300",
 			"anualidad" : "$400",
-			"nombre" : "Flexcard",
 			"institucion" : "Santander Consumo, S.A. de C.V., SOFOM, E.R.",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 95,
+			"nombre" : "Light",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -1894,13 +1896,13 @@
 			"gastos_cobranza" : "$330",
 			"anualidad_tarjeta_ad" : "$265",
 			"anualidad" : "$530",
-			"nombre" : "Light",
 			"institucion" : "Santander Consumo, S.A. de C.V., SOFOM, E.R.",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 96,
+			"nombre" : "Santander Oro Cash",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -1914,13 +1916,13 @@
 			"gastos_cobranza" : "$330",
 			"anualidad_tarjeta_ad" : "$460",
 			"anualidad" : "$920",
-			"nombre" : "Santander Oro Cash",
 			"institucion" : "Santander Consumo, S.A. de C.V., SOFOM, E.R.",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 97,
+			"nombre" : "Santander Oro",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -1934,13 +1936,13 @@
 			"gastos_cobranza" : "$330",
 			"anualidad_tarjeta_ad" : "$405",
 			"anualidad" : "$810",
-			"nombre" : "Santander Oro",
 			"institucion" : "Santander Consumo, S.A. de C.V., SOFOM, E.R.",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 98,
+			"nombre" : "Santander Black",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -1954,13 +1956,13 @@
 			"gastos_cobranza" : "$330",
 			"anualidad_tarjeta_ad" : "$475",
 			"anualidad" : "$950",
-			"nombre" : "Santander Black",
 			"institucion" : "Santander Consumo, S.A. de C.V., SOFOM, E.R.",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 99,
+			"nombre" : "Santander Platino",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -1974,13 +1976,13 @@
 			"gastos_cobranza" : "$330",
 			"anualidad_tarjeta_ad" : "$1,050",
 			"anualidad" : "$2,100",
-			"nombre" : "Santander Platino",
 			"institucion" : "Santander Consumo, S.A. de C.V., SOFOM, E.R.",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 100,
+			"nombre" : "Ferrari",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -1994,13 +1996,13 @@
 			"gastos_cobranza" : "$330",
 			"anualidad_tarjeta_ad" : "$850",
 			"anualidad" : "$1,700",
-			"nombre" : "Ferrari",
 			"institucion" : "Santander Consumo, S.A. de C.V., SOFOM, E.R.",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 101,
+			"nombre" : "Fiesta Rewards Oro",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -2014,13 +2016,13 @@
 			"gastos_cobranza" : "$330",
 			"anualidad_tarjeta_ad" : "$375",
 			"anualidad" : "$750",
-			"nombre" : "Fiesta Rewards Oro",
 			"institucion" : "Santander Consumo, S.A. de C.V., SOFOM, E.R.",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 102,
+			"nombre" : "Fiesta Rewards Platino",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -2034,13 +2036,13 @@
 			"gastos_cobranza" : "$330",
 			"anualidad_tarjeta_ad" : "$925",
 			"anualidad" : "$1,850",
-			"nombre" : "Fiesta Rewards Platino",
 			"institucion" : "Santander Consumo, S.A. de C.V., SOFOM, E.R.",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 103,
+			"nombre" : "Unisantander K",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -2054,13 +2056,13 @@
 			"gastos_cobranza" : "$330",
 			"anualidad_tarjeta_ad" : "$0",
 			"anualidad" : "$0",
-			"nombre" : "Unisantander K",
 			"institucion" : "Santander Consumo, S.A. de C.V., SOFOM, E.R.",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 104,
+			"nombre" : "World Elite",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -2074,13 +2076,13 @@
 			"gastos_cobranza" : "$330",
 			"anualidad_tarjeta_ad" : "$1,000",
 			"anualidad" : "$5,000",
-			"nombre" : "World Elite",
 			"institucion" : "Santander Consumo, S.A. de C.V., SOFOM, E.R.",
 			"programa_asistencia" : "Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 105,
+			"nombre" : "Santander Zero",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -2094,13 +2096,13 @@
 			"gastos_cobranza" : "$330",
 			"anualidad_tarjeta_ad" : "NA",
 			"anualidad" : "$0",
-			"nombre" : "Santander Zero",
 			"institucion" : "Santander Consumo, S.A. de C.V., SOFOM, E.R.",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 106,
+			"nombre" : "Santander Black Unlimited",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -2114,13 +2116,13 @@
 			"gastos_cobranza" : "$330",
 			"anualidad_tarjeta_ad" : "$750",
 			"anualidad" : "$1,500",
-			"nombre" : "Santander Black Unlimited",
 			"institucion" : "Santander Consumo, S.A. de C.V., SOFOM, E.R.",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 107,
+			"nombre" : "Ixe Básica",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -2134,13 +2136,13 @@
 			"gastos_cobranza" : "NA",
 			"anualidad_tarjeta_ad" : "$0",
 			"anualidad" : "$0",
-			"nombre" : "Ixe Básica",
 			"institucion" : "Banco Mercantil del Norte, S.A., Institución de Banca Múltiple, Grupo Financiero Banorte",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 108,
+			"nombre" : "Ixe Oro Empresarial",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -2154,13 +2156,13 @@
 			"gastos_cobranza" : "NA",
 			"anualidad_tarjeta_ad" : "$325",
 			"anualidad" : "$600",
-			"nombre" : "Ixe Oro Empresarial",
 			"institucion" : "Banco Mercantil del Norte, S.A., Institución de Banca Múltiple, Grupo Financiero Banorte",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 109,
+			"nombre" : "Ixe Clásica Visa",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -2174,13 +2176,13 @@
 			"gastos_cobranza" : "NA",
 			"anualidad_tarjeta_ad" : "$220",
 			"anualidad" : "$500",
-			"nombre" : "Ixe Clásica Visa",
 			"institucion" : "Banco Mercantil del Norte, S.A., Institución de Banca Múltiple, Grupo Financiero Banorte",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 110,
+			"nombre" : "Ixe Infinite",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -2194,13 +2196,13 @@
 			"gastos_cobranza" : "NA",
 			"anualidad_tarjeta_ad" : "$0",
 			"anualidad" : "$4,600",
-			"nombre" : "Ixe Infinite",
 			"institucion" : "Banco Mercantil del Norte, S.A., Institución de Banca Múltiple, Grupo Financiero Banorte",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 111,
+			"nombre" : "Ixe Oro",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -2214,13 +2216,13 @@
 			"gastos_cobranza" : "NA",
 			"anualidad_tarjeta_ad" : "$350",
 			"anualidad" : "$700",
-			"nombre" : "Ixe Oro",
 			"institucion" : "Banco Mercantil del Norte, S.A., Institución de Banca Múltiple, Grupo Financiero Banorte",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 112,
+			"nombre" : "Ixe Platino",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -2234,13 +2236,13 @@
 			"gastos_cobranza" : "NA",
 			"anualidad_tarjeta_ad" : "$800",
 			"anualidad" : "$1,700",
-			"nombre" : "Ixe Platino",
 			"institucion" : "Banco Mercantil del Norte, S.A., Institución de Banca Múltiple, Grupo Financiero Banorte",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 113,
+			"nombre" : "Ixe Clásica MasterCard",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -2254,13 +2256,13 @@
 			"gastos_cobranza" : "NA",
 			"anualidad_tarjeta_ad" : "NA",
 			"anualidad" : "$430",
-			"nombre" : "Ixe Clásica MasterCard",
 			"institucion" : "Banco Mercantil del Norte, S.A., Institución de Banca Múltiple, Grupo Financiero Banorte",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 114,
+			"nombre" : "Soriana Coemitida",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -2274,13 +2276,13 @@
 			"gastos_cobranza" : "$275",
 			"anualidad_tarjeta_ad" : "$250",
 			"anualidad" : "$520",
-			"nombre" : "Soriana Coemitida",
 			"institucion" : "Servicios Financieros Soriana SAPI, de C.V., SOFOM, E.R.",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 115,
+			"nombre" : "Soriana",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -2294,13 +2296,13 @@
 			"gastos_cobranza" : "$200",
 			"anualidad_tarjeta_ad" : "$150",
 			"anualidad" : "$300",
-			"nombre" : "Soriana",
 			"institucion" : "Servicios Financieros Soriana SAPI, de C.V., SOFOM, E.R.",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 116,
+			"nombre" : "Soriana Pagos Fijos",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -2314,13 +2316,13 @@
 			"gastos_cobranza" : "$100",
 			"anualidad_tarjeta_ad" : "$100",
 			"anualidad" : "$200",
-			"nombre" : "Soriana Pagos Fijos",
 			"institucion" : "Servicios Financieros Soriana SAPI, de C.V., SOFOM, E.R.",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 117,
+			"nombre" : "Merza-Bajío",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -2334,13 +2336,13 @@
 			"gastos_cobranza" : "NA",
 			"anualidad_tarjeta_ad" : "NA",
 			"anualidad" : "NA",
-			"nombre" : "Merza-Bajío",
 			"institucion" : "Banco del Bajío, S.A., Institución de Banca Múltiple",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 118,
+			"nombre" : "Visa Platinum",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -2354,13 +2356,13 @@
 			"gastos_cobranza" : "NA",
 			"anualidad_tarjeta_ad" : "$750",
 			"anualidad" : "$1,500",
-			"nombre" : "Visa Platinum",
 			"institucion" : "Banco del Bajío, S.A., Institución de Banca Múltiple",
 			"programa_asistencia" : "Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 119,
+			"nombre" : "Mifel World Elite",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -2374,13 +2376,13 @@
 			"gastos_cobranza" : "NA",
 			"anualidad_tarjeta_ad" : "$2,500",
 			"anualidad" : "$5,000",
-			"nombre" : "Mifel World Elite",
 			"institucion" : "Banca Mifel, S.A., Institución de Banca Múltiple, Grupo Financiero Mifel",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 120,
+			"nombre" : "Mifel Básica",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -2394,13 +2396,13 @@
 			"gastos_cobranza" : "NA",
 			"anualidad_tarjeta_ad" : "NA",
 			"anualidad" : "$0",
-			"nombre" : "Mifel Básica",
 			"institucion" : "Banca Mifel, S.A., Institución de Banca Múltiple, Grupo Financiero Mifel",
 			"programa_asistencia" : "Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 121,
+			"nombre" : "Mi Banco",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -2414,13 +2416,13 @@
 			"gastos_cobranza" : "$495",
 			"anualidad_tarjeta_ad" : "$100",
 			"anualidad" : "$595",
-			"nombre" : "Mi Banco",
 			"institucion" : "Banco Invex, S.A., Institución de Banca Múltiple, Invex Grupo Financiero",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 122,
+			"nombre" : "SíCard Platinum INVEX",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -2434,13 +2436,13 @@
 			"gastos_cobranza" : "$495",
 			"anualidad_tarjeta_ad" : "$675",
 			"anualidad" : "$1,350",
-			"nombre" : "SíCard Platinum INVEX",
 			"institucion" : "Banco Invex, S.A., Institución de Banca Múltiple, Invex Grupo Financiero",
 			"programa_asistencia" : "Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 123,
+			"nombre" : "SíCard Plus INVEX",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -2454,13 +2456,13 @@
 			"gastos_cobranza" : "$495",
 			"anualidad_tarjeta_ad" : "$305",
 			"anualidad" : "$610",
-			"nombre" : "SíCard Plus INVEX",
 			"institucion" : "Banco Invex, S.A., Institución de Banca Múltiple, Invex Grupo Financiero",
 			"programa_asistencia" : "Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 124,
+			"nombre" : "SíCard MC",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -2474,13 +2476,13 @@
 			"gastos_cobranza" : "$495",
 			"anualidad_tarjeta_ad" : "$305",
 			"anualidad" : "$610",
-			"nombre" : "SíCard MC",
 			"institucion" : "Banco Invex, S.A., Institución de Banca Múltiple, Invex Grupo Financiero",
 			"programa_asistencia" : "Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 125,
+			"nombre" : "SíCard Básica",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -2494,13 +2496,13 @@
 			"gastos_cobranza" : "NA",
 			"anualidad_tarjeta_ad" : "NA",
 			"anualidad" : "NA",
-			"nombre" : "SíCard Básica",
 			"institucion" : "Banco Invex, S.A., Institución de Banca Múltiple, Invex Grupo Financiero",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 126,
+			"nombre" : "Volaris INVEX",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -2514,13 +2516,13 @@
 			"gastos_cobranza" : "$495",
 			"anualidad_tarjeta_ad" : "$500",
 			"anualidad" : "$1,000",
-			"nombre" : "Volaris INVEX",
 			"institucion" : "Banco Invex, S.A., Institución de Banca Múltiple, Invex Grupo Financiero",
 			"programa_asistencia" : "Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 127,
+			"nombre" : "Afirme Platinum",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -2534,13 +2536,13 @@
 			"gastos_cobranza" : "$0",
 			"anualidad_tarjeta_ad" : "$1,150",
 			"anualidad" : "$2,300",
-			"nombre" : "Afirme Platinum",
 			"institucion" : "Banca Afirme, S.A., Institución de Banca Múltiple, Afirme Grupo Financiero",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 128,
+			"nombre" : "Mujer Banorte",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -2554,13 +2556,13 @@
 			"gastos_cobranza" : "NA",
 			"anualidad_tarjeta_ad" : "NA",
 			"anualidad" : "$395",
-			"nombre" : "Mujer Banorte",
 			"institucion" : "Banco Mercantil del Norte, S.A., Institución de Banca Múltiple, Grupo Financiero Banorte",
 			"programa_asistencia" : "Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 129,
+			"nombre" : "American Express Payback Gold Credit Card",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -2574,13 +2576,13 @@
 			"gastos_cobranza" : "$350",
 			"anualidad_tarjeta_ad" : "NA",
 			"anualidad" : "$1,000",
-			"nombre" : "American Express Payback Gold Credit Card",
 			"institucion" : "American Express Bank (México), S.A., Institución de Banca Múltiple",
 			"programa_asistencia" : "Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 130,
+			"nombre" : "Súper Tarjeta de Crédito de Bodega Aurrera",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -2594,13 +2596,13 @@
 			"gastos_cobranza" : "$300",
 			"anualidad_tarjeta_ad" : "$100",
 			"anualidad" : "$300",
-			"nombre" : "Súper Tarjeta de Crédito de Bodega Aurrera",
 			"institucion" : "Banco Wal-Mart de México Adelante, S.A., Institución de Banca Múltiple",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 131,
+			"nombre" : "Elite Rewards Clásica",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -2614,13 +2616,13 @@
 			"gastos_cobranza" : "$330",
 			"anualidad_tarjeta_ad" : "$295",
 			"anualidad" : "$590",
-			"nombre" : "Elite Rewards Clásica",
 			"institucion" : "Santander Consumo, S.A. de C.V., SOFOM, E.R.",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 132,
+			"nombre" : "Elite Rewards Oro",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -2634,13 +2636,13 @@
 			"gastos_cobranza" : "$330",
 			"anualidad_tarjeta_ad" : "$475",
 			"anualidad" : "$950",
-			"nombre" : "Elite Rewards Oro",
 			"institucion" : "Santander Consumo, S.A. de C.V., SOFOM, E.R.",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 133,
+			"nombre" : "Elite Rewards Platino",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -2654,13 +2656,13 @@
 			"gastos_cobranza" : "$330",
 			"anualidad_tarjeta_ad" : "$300",
 			"anualidad" : "$1,200",
-			"nombre" : "Elite Rewards Platino",
 			"institucion" : "Santander Consumo, S.A. de C.V., SOFOM, E.R.",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 134,
+			"nombre" : "Free",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -2674,13 +2676,13 @@
 			"gastos_cobranza" : "$330",
 			"anualidad_tarjeta_ad" : "NA",
 			"anualidad" : "NA",
-			"nombre" : "Free",
 			"institucion" : "Santander Consumo, S.A. de C.V., SOFOM, E.R.",
 			"programa_asistencia" : "Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 135,
+			"nombre" : "Afinidad UNAM Bancomer",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -2694,13 +2696,13 @@
 			"gastos_cobranza" : "$335",
 			"anualidad_tarjeta_ad" : "NA",
 			"anualidad" : "$560",
-			"nombre" : "Afinidad UNAM Bancomer",
 			"institucion" : "BBVA Bancomer, S.A., Institución de Banca Múltiple, Grupo Financiero BBVA Bancomer",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 136,
+			"nombre" : "MicroNegocios Bancomer",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -2714,13 +2716,13 @@
 			"gastos_cobranza" : "NA",
 			"anualidad_tarjeta_ad" : "NA",
 			"anualidad" : "$750",
-			"nombre" : "MicroNegocios Bancomer",
 			"institucion" : "BBVA Bancomer, S.A., Institución de Banca Múltiple, Grupo Financiero BBVA Bancomer",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 137,
+			"nombre" : "Scotia Travel World Elite",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -2734,13 +2736,13 @@
 			"gastos_cobranza" : "$300",
 			"anualidad_tarjeta_ad" : "$0",
 			"anualidad" : "$3,900",
-			"nombre" : "Scotia Travel World Elite",
 			"institucion" : "Scotiabank, S.A., Institución de Banca Múltiple, Grupo Financiero Scotiabank Inverlat",
 			"programa_asistencia" : "Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 138,
+			"nombre" : "INVEX Manchester United",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -2754,13 +2756,13 @@
 			"gastos_cobranza" : "$495",
 			"anualidad_tarjeta_ad" : "$295",
 			"anualidad" : "$595",
-			"nombre" : "INVEX Manchester United",
 			"institucion" : "Banco Invex, S.A., Institución de Banca Múltiple, Invex Grupo Financiero",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 139,
+			"nombre" : "INVEX Empresarial",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -2774,13 +2776,13 @@
 			"gastos_cobranza" : "$495",
 			"anualidad_tarjeta_ad" : "NA",
 			"anualidad" : "$850",
-			"nombre" : "INVEX Empresarial",
 			"institucion" : "Banco Invex, S.A., Institución de Banca Múltiple, Invex Grupo Financiero",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 140,
+			"nombre" : "Banorte Los 40 Principales",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -2794,13 +2796,13 @@
 			"gastos_cobranza" : "$300",
 			"anualidad_tarjeta_ad" : "$200",
 			"anualidad" : "$500",
-			"nombre" : "Banorte Los 40 Principales",
 			"institucion" : "Banco Mercantil del Norte, S.A., Institución de Banca Múltiple, Grupo Financiero Banorte",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 141,
+			"nombre" : "Empresarial Banorte",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -2814,13 +2816,13 @@
 			"gastos_cobranza" : "$279",
 			"anualidad_tarjeta_ad" : "$504",
 			"anualidad" : "$0",
-			"nombre" : "Empresarial Banorte",
 			"institucion" : "Banco Mercantil del Norte, S.A., Institución de Banca Múltiple, Grupo Financiero Banorte",
 			"programa_asistencia" : "Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 142,
+			"nombre" : "Ixe United Universe",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -2834,13 +2836,13 @@
 			"gastos_cobranza" : "NA",
 			"anualidad_tarjeta_ad" : "$2,000",
 			"anualidad" : "$3,900",
-			"nombre" : "Ixe United Universe",
 			"institucion" : "Banco Mercantil del Norte, S.A., Institución de Banca Múltiple, Grupo Financiero Banorte",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 143,
+			"nombre" : "Ixe United",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -2854,13 +2856,13 @@
 			"gastos_cobranza" : "NA",
 			"anualidad_tarjeta_ad" : "$1,000",
 			"anualidad" : "$2,500",
-			"nombre" : "Ixe United",
 			"institucion" : "Banco Mercantil del Norte, S.A., Institución de Banca Múltiple, Grupo Financiero Banorte",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 144,
+			"nombre" : "Línea Crédito Telmex Inbursa",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -2874,13 +2876,13 @@
 			"gastos_cobranza" : "$300",
 			"anualidad_tarjeta_ad" : "$0",
 			"anualidad" : "$0",
-			"nombre" : "Línea Crédito Telmex Inbursa",
 			"institucion" : "Sociedad Financiera Inbursa, S.A. de C.V., SOFOM, E.R., Grupo Financiero Inbursa",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 145,
+			"nombre" : "Corporativa",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -2894,13 +2896,13 @@
 			"gastos_cobranza" : "$300",
 			"anualidad_tarjeta_ad" : "$0",
 			"anualidad" : "$0",
-			"nombre" : "Corporativa",
 			"institucion" : "Sociedad Financiera Inbursa, S.A. de C.V., SOFOM, E.R., Grupo Financiero Inbursa",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 146,
+			"nombre" : "Travel Pass Platinum Elite",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -2914,13 +2916,13 @@
 			"gastos_cobranza" : "$330",
 			"anualidad_tarjeta_ad" : "$1,000",
 			"anualidad" : "$2,000",
-			"nombre" : "Travel Pass Platinum Elite",
 			"institucion" : "Tarjetas Banamex, S.A de C.V., SOFOM, E.R.",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 147,
+			"nombre" : "Deporteísmo Platinum",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -2934,13 +2936,13 @@
 			"gastos_cobranza" : "$330",
 			"anualidad_tarjeta_ad" : "$1,000",
 			"anualidad" : "$2,000",
-			"nombre" : "Deporteísmo Platinum",
 			"institucion" : "Tarjetas Banamex, S.A de C.V., SOFOM, E.R.",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 148,
+			"nombre" : "Famsa",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -2954,13 +2956,13 @@
 			"gastos_cobranza" : "$200",
 			"anualidad_tarjeta_ad" : "$0",
 			"anualidad" : "$250",
-			"nombre" : "Famsa",
 			"institucion" : "Banco Ahorro Famsa, S.A",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 149,
+			"nombre" : "Pagos Congelados",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -2974,13 +2976,13 @@
 			"gastos_cobranza" : "$150",
 			"anualidad_tarjeta_ad" : "$0",
 			"anualidad" : "$200",
-			"nombre" : "Pagos Congelados",
 			"institucion" : "Banco Ahorro Famsa, S.A",
 			"programa_asistencia" : "Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 150,
+			"nombre" : "Famsa Oro",
 			"programa_puntos" : "No Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "Aplica",
@@ -2994,13 +2996,13 @@
 			"gastos_cobranza" : "$250",
 			"anualidad_tarjeta_ad" : "$0",
 			"anualidad" : "$500",
-			"nombre" : "Famsa Oro",
 			"institucion" : "Banco Ahorro Famsa, S.A",
 			"programa_asistencia" : "Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		},
 		{
 			"id" : 151,
+			"nombre" : "CrediScotia",
 			"programa_puntos" : "Aplica",
 			"reduccion_tasa" : "No Aplica",
 			"seguro_renta_auto" : "No Aplica",
@@ -3014,49 +3016,8 @@
 			"gastos_cobranza" : "$0",
 			"anualidad_tarjeta_ad" : "$0",
 			"anualidad" : "$408",
-			"nombre" : "CrediScotia",
 			"institucion" : "Global Card, S.A. de C.V., SOFOM, E.R.",
 			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
-		},
-		{
-			"id" : 152,
-			"programa_puntos" : "No Aplica",
-			"reduccion_tasa" : "No Aplica",
-			"seguro_renta_auto" : "No Aplica",
-			"seguro_accidentes" : "No Aplica",
-			"seguro_equipaje" : "No Aplica",
-			"cat_sin_iva" : "41.20%",
-			"tasa_promedio" : "32.92%",
-			"ingresos_minimos" : "$0",
-			"reposicion" : "$0.00",
-			"falta_pago" : "$0",
-			"gastos_cobranza" : "$0",
-			"anualidad_tarjeta_ad" : "$0",
-			"anualidad" : "$0",
-			"nombre" : "Elite Rewards Oro",
-			"institucion" : "Santander Consumo, S.A. de C.V., SOFOM, E.R.",
-			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
-		},
-		{
-			"id" : 153,
-			"programa_puntos" : "No Aplica",
-			"reduccion_tasa" : "No Aplica",
-			"seguro_renta_auto" : "No Aplica",
-			"seguro_accidentes" : "No Aplica",
-			"seguro_equipaje" : "No Aplica",
-			"cat_sin_iva" : "48.80%",
-			"tasa_promedio" : "38.25%",
-			"ingresos_minimos" : "$0",
-			"reposicion" : "$0.00",
-			"falta_pago" : "$0",
-			"gastos_cobranza" : "$0",
-			"anualidad_tarjeta_ad" : "$0",
-			"anualidad" : "$0",
-			"nombre" : "Elite Rewards Platino",
-			"institucion" : "Santander Consumo, S.A. de C.V., SOFOM, E.R.",
-			"programa_asistencia" : "No Aplica",
-			"imageUrl": "./static/img/test_card.jpg"
+			"more_url":""
 		}
 	]
