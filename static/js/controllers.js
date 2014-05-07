@@ -7,7 +7,7 @@ var cardControllers = angular.module('cardControllers', []);
 cardControllers.controller('CardListCtrl', ['$scope', 'CardService',
   function($scope, CardService) {
     $scope.cards = CardService.query();
-    $scope.orderProp = 'nombre';
+    $scope.orderProp = 'id';
   }]
 );
 

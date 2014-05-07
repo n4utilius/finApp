@@ -7,19 +7,13 @@
    <!--Sidebar content-->
    <ul>
     <li> Institución: 
-     <select ng-model="search.institucion" class="small">
-      <option selected="selected" ></option>
-      <option ng-repeat="card in cards | orderBy:'institucion'"
-          value="{{card.institucion}}"> 
-       {{card.institucion}} 
-      </option>
-     </select>
+      <input type="text" ng-model="search.institucion" >
     </li>
 
     <li> Ingresos Mínimos Comprobados: 
      <select ng-model="search.ingresos_minimos" class="small">
       <option selected="selected" ></option>
-      <option ng-repeat="card in cards | orderBy:'ingresos_minimos' | 
+      <option ng-repeat="card in cards | orderBy:'ingresos_minimos' | unique: 'ingresos_minimos' | 
                          filter:search.institucion" 
        value="{{card.ingresos_minimos}}"> 
        {{card.ingresos_minimos}} 
@@ -33,7 +27,7 @@
     <li> Anualidad: 
      <select ng-model="search.anualidad" class="small">
       <option selected="selected" ></option>
-      <option ng-repeat="card in cards | orderBy:'anualidad' | 
+      <option ng-repeat="card in cards | orderBy:'anualidad' | unique: 'anualidad' |
                          filter:search.institucion | filter:search.ingresos_minimos" 
        value="{{card.anualidad}}"> 
        {{card.anualidad}} 
@@ -44,7 +38,7 @@
     <li> Anualidad Tarjeta Adicional: 
      <select ng-model="search.anualidad_tarjeta_ad" class="small">
       <option selected="selected" ></option>
-      <option ng-repeat="card in cards | orderBy:'anualidad_tarjeta_ad' | 
+      <option ng-repeat="card in cards | orderBy:'anualidad_tarjeta_ad' | unique: 'anualidad_tarjeta_ad' |
                          filter:search.institucion | filter:search.ingresos_minimos | 
                          filter:search.anualidad" 
        value="{{card.anualidad_tarjeta_ad}}"> 
@@ -56,7 +50,7 @@
     <li> Gastos de Cobranza: 
      <select ng-model="search.gastos_cobranza" class="small">
       <option selected="selected" ></option>
-      <option ng-repeat="card in cards | orderBy:'gastos_cobranza' | 
+      <option ng-repeat="card in cards | orderBy:'gastos_cobranza' | unique: 'gastos_cobranza' |
                          filter:search.institucion | filter:search.ingresos_minimos | 
                          filter:search.anualidad | filter:search.anualidad_tarjeta_ad" 
        value="{{card.gastos_cobranza}}"> 
@@ -68,7 +62,7 @@
     <li> Falta de Pago: 
      <select ng-model="search.falta_pago" class="small">
       <option selected="selected" ></option>
-      <option ng-repeat="card in cards | orderBy:'falta_pago' | 
+      <option ng-repeat="card in cards | orderBy:'falta_pago' | unique: 'falta_pago' |
                          filter:search.institucion | filter:search.ingresos_minimos | 
                          filter:search.anualidad | filter:search.anualidad_tarjeta_ad | 
                          filter:search.gastos_cobranza" 
@@ -81,7 +75,7 @@
     <li> Reposición: 
      <select ng-model="search.reposicion" class="small">
       <option selected="selected" ></option>
-      <option ng-repeat="card in cards | orderBy:'reposicion' | 
+      <option ng-repeat="card in cards | orderBy:'reposicion' | unique: 'reposicion' |
                          filter:search.institucion | filter:search.ingresos_minimos | 
                          filter:search.anualidad | filter:search.anualidad_tarjeta_ad | 
                          filter:search.gastos_cobranza | filter:search.falta_pago" 
@@ -96,7 +90,7 @@
     <li> Tasa de Interes Promedio: 
      <select ng-model="search.tasa_promedio" class="small">
       <option selected="selected" ></option>
-      <option ng-repeat="card in cards | orderBy:'tasa_promedio' | 
+      <option ng-repeat="card in cards | orderBy:'tasa_promedio' | unique: 'tasa_promedio' |
                          filter:search.institucion | filter:search.ingresos_minimos | 
                          filter:search.anualidad | filter:search.anualidad_tarjeta_ad | 
                          filter:search.gastos_cobranza | filter:search.falta_pago | 
@@ -110,7 +104,7 @@
     <li> CAT sin IVA: 
      <select ng-model="search.cat_sin_iva" class="small">
       <option selected="selected" ></option>
-      <option ng-repeat="card in cards | orderBy:'cat_sin_iva' | 
+      <option ng-repeat="card in cards | orderBy:'cat_sin_iva' | unique: 'cat_sin_iva' |
                          filter:search.institucion | filter:search.ingresos_minimos | 
                          filter:search.anualidad | filter:search.anualidad_tarjeta_ad | 
                          filter:search.gastos_cobranza | filter:search.falta_pago | 
@@ -121,34 +115,21 @@
      </select>
     </li>
 
-    <li> Seguro de Equipaje: 
-     <select ng-model="search.seguro_equipaje" class="small">
-      <option selected="selected" ></option>
-      <option ng-repeat="card in cards | orderBy:'seguro_equipaje' | 
-                         filter:search.institucion | filter:search.ingresos_minimos | 
-                         filter:search.anualidad | filter:search.anualidad_tarjeta_ad | 
-                         filter:search.gastos_cobranza | filter:search.falta_pago | 
-                         filter:search.reposicion| filter:search.tasa_promedio | 
-                         filter:search.cat_sin_iva" 
-       value="{{card.seguro_equipaje}}"> 
-       {{card.seguro_equipaje}} 
-      </option>
-     </select>
+    <li> Seguro de Equipaje:
+      <p>
+        <input type="radio" name="seguro_equipaje" ng-model="search.seguro_equipaje" value="Aplica"> Aplica </input>
+      </p> 
+      <p>
+        <input type="radio" name="seguro_equipaje" ng-model="search.seguro_equipaje" value="No Aplica"> No Aplica </input>
+      </p>
     </li>
 
     <li> Seguro de Viajero: 
-     <select ng-model="search.seguro_accidentes" class="small">
-      <option selected="selected" ></option>
-      <option ng-repeat="card in cards | orderBy:'seguro_accidentes' | 
-                         filter:search.institucion | filter:search.ingresos_minimos | 
-                         filter:search.anualidad | filter:search.anualidad_tarjeta_ad | 
-                         filter:search.gastos_cobranza | filter:search.falta_pago | 
-                         filter:search.reposicion| filter:search.tasa_promedio | 
-                         filter:search.cat_sin_iva | filter:search.seguro_equipaje" 
-       value="{{card.seguro_accidentes}}"> 
-       {{card.seguro_accidentes}} 
-      </option>
-     </select>
+      <p>
+        <input type="radio" name="seguro_accidentes" ng-model="search.seguro_accidentes" value="Aplica"> Aplica </input>
+      <p>
+        <input type="radio" name="seguro_accidentes" ng-model="search.seguro_accidentes" value="No Aplica"> No Aplica </input>
+      </p>
     </li>
 
    </ul>
