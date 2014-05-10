@@ -2150,7 +2150,7 @@
 			"seguro_equipaje" : "No Aplica",
 			"cat_sin_iva" : "ND",
 			"tasa_promedio" : "ND",
-			"ingresos_minimos" : "Ingresos Mínimos Anuales $3,000,000 de pesos y saldos promedio en IXE los últimos tres meses",
+			"ingresos_minimos" : "$3,000,000 (Anuales) y saldos promedio en IXE los últimos tres meses",
 			"reposicion" : "$120.00",
 			"falta_pago" : "$350",
 			"gastos_cobranza" : "NA",
